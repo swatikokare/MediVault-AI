@@ -1,0 +1,7 @@
+streamlit==1.35.0
+sentence-transformers==2.7.0
+huggingface_hub==0.36.2
+pypdf==4.2.0
+requests==2.32.3
+numpy==1.26.4
+reportlab==4.2.2
