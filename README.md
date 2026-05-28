@@ -116,4 +116,6 @@ If Ollama is not running, the app will still function by showing the most releva
 
 ## UI
 <img width="1919" height="1199" alt="Screenshot 2026-05-28 192126" src="https://github.com/user-attachments/assets/09b6a6cc-177d-49d9-8479-1eab3335e289" />
+<img width="1919" height="1199" alt="Screenshot 2026-05-28 190718" src="https://github.com/user-attachments/assets/1c7d39d6-4bfd-43c4-8965-ccd1200d18eb" />
+
 
