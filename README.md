@@ -113,3 +113,7 @@ If Ollama is not running, the app will still function by showing the most releva
 - Uploaded documents and embeddings are stored locally in `data/uploads` and `data/vector_index.pkl`.
 - This app is intended for educational and reference use only, not medical diagnosis or professional advice.
 - For severe, sudden, or urgent symptoms, seek immediate medical care.
+
+## UI
+<img width="1919" height="1199" alt="Screenshot 2026-05-28 192126" src="https://github.com/user-attachments/assets/09b6a6cc-177d-49d9-8479-1eab3335e289" />
+
